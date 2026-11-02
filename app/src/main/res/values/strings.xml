@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PodFinder</string>
+    <string name="intro">Tap a device to track it. Take the buds out of the case or open the lid so they broadcast.</string>
+    <string name="scanning">Scanning…</string>
+    <string name="nothing_found">Nothing in range yet.</string>
+    <string name="tap_to_find">Tap to find</string>
+    <string name="permission_needed">PodFinder needs the Nearby devices permission to scan for AirPods.</string>
+    <string name="grant_permission">Grant permission</string>
+    <string name="bluetooth_off">Turn Bluetooth on to scan.</string>
+    <string name="back">Back</string>
+    <string name="move_around">Move around to pick up the signal</string>
+    <string name="signal_lost">No signal</string>
+    <string name="play_sound">Play sound</string>
+    <string name="playing">Connecting…</string>
+    <string name="sound_played">Played sound via %1$s.</string>
+    <string name="sound_failed">Could not play sound: %1$s</string>
+    <string name="widget_no_pin">No device pinned</string>
+    <string name="widget_tap_to_open">Tap to open PodFinder</string>
+    <string name="widget_description">Find your pinned AirPods from the home screen.</string>
+</resources>
